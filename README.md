@@ -39,6 +39,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 ## POLICY EVALUATION FUNCTION
 ![image](https://github.com/gunasekhar159/rl-policy-evaluation/assets/95043391/5eb0afd9-87d0-4817-81da-ca8e4fb1d933)
 ## Program
+```
 Developed By: M.GUNASEKHAR
 Reg No: 212221240014.
 
@@ -165,7 +166,7 @@ elif(np.sum(V2>=V1)==7):
   print("The second policy is the better policy")
 else:
   print("Both policies have their merits.")
-
+```
 ## OUTPUT:
 ## Policy 1:
 ![image](https://github.com/gunasekhar159/rl-policy-evaluation/assets/95043391/c4bf566e-5e62-4a9a-bf94-38b41f840036)
