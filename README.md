@@ -177,7 +177,7 @@ else:
 ![image](https://github.com/gunasekhar159/rl-policy-evaluation/assets/95043391/d0fc43b1-cac6-4855-b2b6-4abf5de85cb5)
 
 ## Conclusion:
-![image](https://github.com/gunasekhar159/rl-policy-evaluation/assets/95043391/85604996-2e1f-43a8-bb1d-3d6d20f7e3e6)
+<img width="374" alt="image" src="https://github.com/gunasekhar159/rl-policy-evaluation/assets/95043391/098438d5-19a7-41f4-b146-5d7cb46b290a">
 
 ## RESULT:
 
